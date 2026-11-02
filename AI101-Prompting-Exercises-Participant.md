@@ -399,7 +399,7 @@ Now classify:
 ### Prompt
 
 ```text
-Write a LinkedIn post about AI.
+Write a facebook post about AI.
 ```
 
 ---
@@ -415,7 +415,7 @@ Cloud computing is no longer a technology decision. It is a business strategy.
 
 Organizations that embrace cloud gain agility, scalability, and faster innovation.
 
-Write a LinkedIn post about AI.
+Write a facebook post about AI.
 ```
 
 ---
@@ -443,7 +443,7 @@ Data is no longer a by-product of operations. It is a strategic asset.
 
 Organizations that use data effectively make faster and better decisions.
 
-Write a LinkedIn post about AI.
+Write a facebook post about AI.
 ```
 
 ---
